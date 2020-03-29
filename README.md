@@ -67,5 +67,9 @@ There are an important consideration is that host config, it then has entry poin
 -----------------------------------------------------------------------
 # Default Route Config & Individual Host Route
 
+for host route
+
+      h3$ip route <remote IP addr> <subnetmask> <next hop Router>
+
 
 
