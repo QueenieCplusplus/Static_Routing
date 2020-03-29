@@ -69,6 +69,8 @@ There are an important consideration is that host config, it then has entry poin
 
 for host route
 
+however this ip addr is assigned for not only the host per se, can be addr of other router.
+
       h3$ip route <remote IP addr> <subnetmask> <next hop Router>
 
 
