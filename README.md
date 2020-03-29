@@ -22,11 +22,15 @@ $no ip routing
 $ip routing
 
 R1$show interfaces ethernet 0
+
 > Ethernet0 is up, line protocol is up
 
 R2$show ip route
+
 > 10.0.0.0/24 is subnetted, 2 subnets
+
 > C 10.2.2.0 is directly connected. TokenRing0
+
 > C 10.0.255.0 is directly connected. Serial1
 
 
