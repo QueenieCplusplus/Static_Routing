@@ -88,5 +88,5 @@ to check by
 
       R0$debug ip packet
       R0$ping <ip addr>
-      R0$ip route 0.0.0.0 0.0.0.0 <next hop router>
+
 
