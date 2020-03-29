@@ -4,7 +4,7 @@ IP Routing CLI
 
 Basic Output Interfaces & Next-Hop Router 181 & 191
 
-Static Routes Config 183
+Static Routes Config 
 
 Classless Routing 195
 
@@ -50,5 +50,8 @@ R2$show ip route
 > C 10.2.2.0 is directly connected. TokenRing0
 
 > C 10.0.255.0 is directly connected. Serial1
+
+-----------------------------------------------------------------------
+# Static Route
 
 
