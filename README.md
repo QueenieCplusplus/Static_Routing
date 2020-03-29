@@ -25,6 +25,10 @@ R1$show interfaces ethernet 0
 
 > Ethernet0 is up, line protocol is up
 
+The hosts that are connected to segments interconnected with a single Router must have Routes pointing to the IP addr assigned on the router interfaces.
+
+For instance, all of the hosts on a segment can have a single Route pointing to IP addr of the Router's interface which is attached to the segment.
+
 R2$show ip route
 
 > 10.0.0.0/24 is subnetted, 2 subnets
