@@ -14,7 +14,7 @@ so on:
 
 IP Classless Routing 
 
-Basic Output Interfaces & Next-Hop Router 181 & 191
+Basic Output Interfaces & Next-Hop Router 
 
 LB using Stactic Route 203
 
