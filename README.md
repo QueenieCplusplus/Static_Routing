@@ -56,6 +56,8 @@ R2$show ip route
 
 to identify the network Prefixes of the networks that are Accessible thru other Routers. Then create Static Route for segements.
 
+There are an important consideration is that host config, it then has entry point to the appropriate interface of the routers, then to create static routing on the closest router. Remember to config 2 sides to avoid errors.
+
         R2$ip route <remote IP addr> <subnetmask> <next hop Router>
 
 
