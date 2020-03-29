@@ -81,7 +81,7 @@ to check by
       
 Deafult Route:
 
-                                               uising ip classless
+                                               using ip classless
  
     Host ------ Segment ------- e0 - Router - s0 ------- Segemnt (Counterpart Router) 
        
