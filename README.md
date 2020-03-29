@@ -77,4 +77,9 @@ to check by
 
       h3$show ip route
       > then show routing table
+      
+for default route
+
+      R0$ip route 0.0.0.0 0.0.0.0 <next hop router>
+      
 
