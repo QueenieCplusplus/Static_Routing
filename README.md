@@ -78,6 +78,17 @@ to check by
       h3$show ip route
       > then show routing table
       
+      
+Deafult Route:
+
+                                               uising ip classless
+ 
+    Host ------ Segment ------- e0 - Router - s0 ------- Segemnt (Counterpart Router) 
+       
+ 
+ 
+
+      
 for default route
 
       R0$ip route 0.0.0.0 0.0.0.0 <next hop router>
