@@ -105,3 +105,6 @@ to check by
 
 this cmd enable the Router to use classless algorithm to make routing decision.
 
+
+    Host ----- Segment --- e0-R-s0 ------ s0-R-e0 --------- Segment ----- Host
+
