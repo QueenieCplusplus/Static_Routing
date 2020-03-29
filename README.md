@@ -1,16 +1,20 @@
 # Static_Routing
 
-IP Routing CLI 
+main part:
 
-Basic Output Interfaces & Next-Hop Router 181 & 191
+IP Routing CLI 
 
 Static Routes Config 
 
+Default Route Config & Individual Host Route 
+
+-----------------------------------------------------------------------
+
+so on: 
+
 Classless Routing 195
 
-Default Route Config 200
-
-Individual Host Route 202
+Basic Output Interfaces & Next-Hop Router 181 & 191
 
 LB using Stactic Route 203
 
@@ -59,5 +63,9 @@ to identify the network Prefixes of the networks that are Accessible thru other 
 There are an important consideration is that host config, it then has entry point to the appropriate interface of the routers, then to create static routing on the closest router. Remember to config 2 sides to avoid errors.
 
         R2$ip route <remote IP addr> <subnetmask> <next hop Router>
+
+-----------------------------------------------------------------------
+# Default Route Config & Individual Host Route
+
 
 
