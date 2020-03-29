@@ -1,6 +1,6 @@
 # Static_Routing
 
-IP Routing CLI 181
+IP Routing CLI 
 
 Basic Output Interfaces & Next-Hop Router 181 & 191
 
