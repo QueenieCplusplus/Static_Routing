@@ -73,5 +73,8 @@ however this ip addr is assigned for not only the host per se, can be addr of ot
 
       h3$ip route <remote IP addr> <subnetmask> <next hop Router>
 
+to check by
 
+      h3$show ip route
+      > then show routing table
 
