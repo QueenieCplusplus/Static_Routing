@@ -105,7 +105,7 @@ to check by
 
 this cmd enable the Router to use classless algorithm to make routing decision.
 
-I think it it is difficult to take the Network Prefix in Conclusion.
+I think it it is difficult to take the Network Prefix in Consideration.
 
           
                                     segment3
