@@ -16,7 +16,7 @@ Basic Output Interfaces & Next-Hop Router
 
 so on: 
 
-LB using Stactic Route 203
+LB using Stactic Route 
 
 -----------------------------------------------------------------------
 # IP Routing CLI
