@@ -54,4 +54,8 @@ R2$show ip route
 -----------------------------------------------------------------------
 # Static Route
 
+to identify the network Prefixes of the networks that are Accessible thru other Routers. Then create Static Route for segements.
+
+R2$ip route <remote IP addr> <subnetmask> <next hop Router>
+
 
