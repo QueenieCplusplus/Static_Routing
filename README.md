@@ -12,7 +12,7 @@ Default Route Config & Individual Host Route
 
 so on: 
 
-Classless Routing 195
+IP Classless Routing 
 
 Basic Output Interfaces & Next-Hop Router 181 & 191
 
@@ -99,4 +99,9 @@ to check by
 
       R0$debug ip packet
       R0$ping <ip addr>
+
+-----------------------------------------------------------------------
+# IP Classless Routing 
+
+this cmd enable the Router to use classless algorithm to make routing decision.
 
