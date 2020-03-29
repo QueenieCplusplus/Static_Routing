@@ -81,5 +81,12 @@ to check by
 for default route
 
       R0$ip route 0.0.0.0 0.0.0.0 <next hop router>
-      
+      R0$ip classless
+      R0$no ip classless
+
+to check by
+
+      R0$debug ip packet
+      R0$ping <ip addr>
+      R0$ip route 0.0.0.0 0.0.0.0 <next hop router>
 
