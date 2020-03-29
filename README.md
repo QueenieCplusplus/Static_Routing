@@ -105,6 +105,11 @@ to check by
 
 this cmd enable the Router to use classless algorithm to make routing decision.
 
+I think it it is difficult to take the Network Prefix in Conclusion.
 
-    Host ----- Segment --- e0-R-s0 ------ s0-R-e0 --------- Segment ----- Host
+          
+                                    segment3
+                                      |
+                                      |
+    Host ----- Segment1 --- e0-R-s0 ------ s0-R-e0 --------- Segment2 ----- Host
 
