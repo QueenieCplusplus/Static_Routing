@@ -78,6 +78,8 @@ There are an important consideration is that host config, it then has entry poin
 
 ![5-1](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/95234947_4252055631474879_6953632977997791232_n.jpg?_nc_cat=105&_nc_sid=110474&_nc_ohc=NSkNQ-q60UQAX9-n8ep&_nc_ht=scontent.ftpe8-1.fna&oh=1e8e44b8f1454fe1226be07e0fd2cfcb&oe=5ED48C32)
 
+![5-2](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/96142849_4252055728141536_9060304541081141248_o.png?_nc_cat=102&_nc_sid=110474&_nc_ohc=s6kMG_jBmDQAX9aaqlq&_nc_ht=scontent.ftpe8-4.fna&oh=dad2963ef17a2ea2d4e20f8119b5399b&oe=5ED4BAE3)
+
 -----------------------------------------------------------------------
 # Default Route Config & Individual Host Route
 
