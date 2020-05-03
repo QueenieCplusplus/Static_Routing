@@ -22,6 +22,10 @@ LB using Stactic Route
 
 Per-VLAN Spanning Tree (PVST+)—PVST+ is a Cisco enhancement of STP that provides a separate 802.1D spanning-tree instance for each VLAN configured in the network. ... The Cisco implementation of MSTP is often referred to as Multiple Spanning Tree (MST).
 
+* IEEE 802.1Q Trunking Protocol
+
+VLAN Trunking Protocol (VTP) is a Cisco proprietary protocol that propagates the definition of Virtual Local Area Networks (VLAN) on the whole local area network. To do this, VTP carries VLAN information to all the switches in a VTP domain. VTP advertisements can be sent over 802.1Q, and ISL trunks.
+
 -----------------------------------------------------------------------
 # IP Routing CLI
 
