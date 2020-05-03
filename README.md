@@ -12,11 +12,9 @@ IP Classless Routing
 
 Basic Output Interfaces & Next-Hop Router 
 
------------------------------------------------------------------------
-
-so on: 
-
 LB using Stactic Route 
+
+-----------------------------------------------------------------------
 
 * IEEE 802.1D Spanning Tree 
 
