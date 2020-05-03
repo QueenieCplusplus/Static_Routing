@@ -18,6 +18,10 @@ so on:
 
 LB using Stactic Route 
 
+* IEEE 802.1D Spanning Tree 
+
+Per-VLAN Spanning Tree (PVST+)—PVST+ is a Cisco enhancement of STP that provides a separate 802.1D spanning-tree instance for each VLAN configured in the network. ... The Cisco implementation of MSTP is often referred to as Multiple Spanning Tree (MST).
+
 -----------------------------------------------------------------------
 # IP Routing CLI
 
