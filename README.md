@@ -67,6 +67,8 @@ to identify the network Prefixes of the networks that are Accessible thru other 
 There are an important consideration is that host config, it then has entry point to the appropriate interface of the routers, then to create static routing on the closest router. Remember to config 2 sides to avoid errors.
 
         R2$ip route <remote IP addr> <subnetmask> <next hop Router>
+        
+![1](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/95329352_4252055654808210_8847947893244428288_o.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=x2YO4D6IHQEAX9EVNE9&_nc_ht=scontent.ftpe8-2.fna&oh=ae1aa732db78f5734c0486db6eee4f56&oe=5ED383DB)
 
 -----------------------------------------------------------------------
 # Default Route Config & Individual Host Route
