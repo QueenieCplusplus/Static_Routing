@@ -24,6 +24,12 @@ Per-VLAN Spanning Tree (PVST+)—PVST+ is a Cisco enhancement of STP that provid
 
 VLAN Trunking Protocol (VTP) is a Cisco proprietary protocol that propagates the definition of Virtual Local Area Networks (VLAN) on the whole local area network. To do this, VTP carries VLAN information to all the switches in a VTP domain. VTP advertisements can be sent over 802.1Q, and ISL (Inter-SW-Link) trunks.
 
+* ISL, Inter-Switch Link (Trunking)
+
+see IEEE 802.1Q
+
+
+
 -----------------------------------------------------------------------
 # IP Routing CLI
 
