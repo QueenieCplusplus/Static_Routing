@@ -81,24 +81,34 @@ There are an important consideration is that host config, it then has entry poin
         
 * VLAN
         
+ (1)
 ![1](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/95329352_4252055654808210_8847947893244428288_o.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=x2YO4D6IHQEAX9EVNE9&_nc_ht=scontent.ftpe8-2.fna&oh=ae1aa732db78f5734c0486db6eee4f56&oe=5ED383DB)
 
+ (2)
 ![2](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/95603496_4252055648141544_7257275771276754944_n.jpg?_nc_cat=106&_nc_sid=110474&_nc_ohc=EDmHEDonsFUAX8yi0Hy&_nc_ht=scontent.ftpe8-3.fna&oh=66a9de50df41775f605e5694d157a2ed&oe=5ED34C8A)
 
+ (3)
 ![3](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/95592029_4252055751474867_3523580062852972544_n.jpg?_nc_cat=110&_nc_sid=110474&_nc_ohc=u_j36mgMAfcAX_IBeRv&_nc_ht=scontent.ftpe8-4.fna&oh=130d771ebb775f29103233031860d8f1&oe=5ED22312)
 
+ (4)
 ![4](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/95140085_4252055638141545_1447246830193606656_n.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=CT0wgQ79NvAAX-PZARo&_nc_ht=scontent.ftpe8-2.fna&oh=5e4835819bf964a3c5d90dbf77694d50&oe=5ED4E763)
 
+ (5)
 ![5-1](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/95234947_4252055631474879_6953632977997791232_n.jpg?_nc_cat=105&_nc_sid=110474&_nc_ohc=NSkNQ-q60UQAX9-n8ep&_nc_ht=scontent.ftpe8-1.fna&oh=1e8e44b8f1454fe1226be07e0fd2cfcb&oe=5ED48C32)
 
+ (6)
 ![5-2](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/96142849_4252055728141536_9060304541081141248_o.png?_nc_cat=102&_nc_sid=110474&_nc_ohc=s6kMG_jBmDQAX9aaqlq&_nc_ht=scontent.ftpe8-4.fna&oh=dad2963ef17a2ea2d4e20f8119b5399b&oe=5ED4BAE3)
 
+ (7)
 ![6](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/95215566_4252055891474853_2773282699677270016_n.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=j5mNR-hOJiEAX9r4e2H&_nc_ht=scontent.ftpe8-2.fna&oh=e6910cccbf2c40691eacab50ccce9226&oe=5ED5642F)
 
+ (8)
 ![7](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/94977487_4252055771474865_6273576991744589824_n.jpg?_nc_cat=102&_nc_sid=110474&_nc_ohc=PC1S9V-CZqIAX8_ewCh&_nc_ht=scontent.ftpe8-4.fna&oh=850c6bca854c2d85364e08743ce75d18&oe=5ED42B44)
 
+(9)
 ![8](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/95376283_4252055731474869_2103592131661660160_o.jpg?_nc_cat=111&_nc_sid=110474&_nc_ohc=-41okVfyqukAX8wUa4x&_nc_ht=scontent.ftpe8-3.fna&oh=2bffc79d4da09f00fc4cc28252bff588&oe=5ED39DE0)
 
+(10)
 ![8-2](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/95771754_4252055681474874_2285555782730645504_n.jpg?_nc_cat=106&_nc_sid=110474&_nc_ohc=_8LH2yFFZ3oAX9qDOs3&_nc_ht=scontent.ftpe8-3.fna&oh=27c23e9effc80959570678c375ad7f2e&oe=5ED3101D)
 
  * VLAN - WAN
