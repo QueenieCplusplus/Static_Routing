@@ -28,7 +28,9 @@ VLAN Trunking Protocol (VTP) is a Cisco proprietary protocol that propagates the
 
 see IEEE 802.1Q
 
+* ISR, Intergrated-Service Router
 
+ISR stands for Integrated Service Router. The term “integrated services” describes a type of network architecture used to guarantee network Quality of Service (QoS). ISR series routers have edge networking capabilities and provide reliable, secure branch office connectivity.
 
 -----------------------------------------------------------------------
 # IP Routing CLI
