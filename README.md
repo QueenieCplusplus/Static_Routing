@@ -78,6 +78,9 @@ There are an important consideration is that host config, it then has entry poin
 
         R2$ip route <remote IP addr> <subnetmask> <next hop Router>
         
+        
+* VLAN
+        
 ![1](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/95329352_4252055654808210_8847947893244428288_o.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=x2YO4D6IHQEAX9EVNE9&_nc_ht=scontent.ftpe8-2.fna&oh=ae1aa732db78f5734c0486db6eee4f56&oe=5ED383DB)
 
 ![2](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/95603496_4252055648141544_7257275771276754944_n.jpg?_nc_cat=106&_nc_sid=110474&_nc_ohc=EDmHEDonsFUAX8yi0Hy&_nc_ht=scontent.ftpe8-3.fna&oh=66a9de50df41775f605e5694d157a2ed&oe=5ED34C8A)
@@ -97,6 +100,8 @@ There are an important consideration is that host config, it then has entry poin
 ![8](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/95376283_4252055731474869_2103592131661660160_o.jpg?_nc_cat=111&_nc_sid=110474&_nc_ohc=-41okVfyqukAX8wUa4x&_nc_ht=scontent.ftpe8-3.fna&oh=2bffc79d4da09f00fc4cc28252bff588&oe=5ED39DE0)
 
 ![8-2](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/95771754_4252055681474874_2285555782730645504_n.jpg?_nc_cat=106&_nc_sid=110474&_nc_ohc=_8LH2yFFZ3oAX9qDOs3&_nc_ht=scontent.ftpe8-3.fna&oh=27c23e9effc80959570678c375ad7f2e&oe=5ED3101D)
+
+ * VLAN - WAN
 
 -----------------------------------------------------------------------
 # Default Route Config & Individual Host Route
