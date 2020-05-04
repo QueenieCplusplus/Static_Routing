@@ -151,15 +151,15 @@ There are an important consideration is that host config, it then has entry poin
 ![4](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/96084192_4255961677750941_7016745147295596544_o.png?_nc_cat=109&_nc_sid=110474&_nc_ohc=OdHZNHuJDKcAX_i5Sxj&_nc_ht=scontent.ftpe8-1.fna&oh=19004a18df2494e99cc8a8cca67b529a&oe=5ED5B689)
 
 
----
+* LAN - VLAN
 
-(5)
+(1)
 ![5](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/95602690_4255962064417569_3783759870155554816_o.jpg?_nc_cat=106&_nc_sid=110474&_nc_ohc=5Hug6LjJbbkAX9XnNRP&_nc_ht=scontent.ftpe8-3.fna&oh=4def047b523029b3bf36d6fd432dd4a2&oe=5ED3E911)
 
-(6)
+(2)
 ![6](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/96215976_4255962427750866_6974268491968806912_o.png?_nc_cat=110&_nc_sid=110474&_nc_ohc=h01l2q4E_0sAX89Utd6&_nc_ht=scontent.ftpe8-4.fna&oh=ecae8ab472c84103cc8084c15b064149&oe=5ED5800D)
 
-(7)
+(3)
 ![7](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/96020537_4255963004417475_2689569114153811968_o.jpg?_nc_cat=104&_nc_sid=110474&_nc_ohc=CigFEVYuDCgAX8KW_wJ&_nc_ht=scontent.ftpe8-4.fna&oh=6bcd2caea27c48569b1ecdc0eadcecb4&oe=5ED6DF65)
 
 -----------------------------------------------------------------------
