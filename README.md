@@ -133,6 +133,20 @@ There are an important consideration is that host config, it then has entry poin
  
  (7)
  ![7](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/95448336_4255938727753236_9045952340925874176_o.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=fjpZZQyXqo8AX8eKRyM&_nc_ht=scontent.ftpe8-2.fna&oh=9e60ef3cc91ceb2327cd69bd85a69c6c&oe=5ED57732)
+ 
+* ISR
+
+(1)
+![1](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/96091631_4255960481084394_8835927392179453952_o.jpg?_nc_cat=105&_nc_sid=110474&_nc_ohc=USTvw3mbtk8AX_2zuQy&_nc_ht=scontent.ftpe8-1.fna&oh=cbe4316a307b10bf298384b780b521ef&oe=5ED3A763)
+
+(2)
+![2](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/95846313_4255960947751014_1682300065202307072_o.png?_nc_cat=111&_nc_sid=110474&_nc_ohc=hJ8gVew6GaAAX8-j3ZA&_nc_ht=scontent.ftpe8-3.fna&oh=d5fedae620daaf5974c1978db99c2359&oe=5ED45563)
+
+(3)
+![3](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/95463983_4255961314417644_5500274989162561536_o.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=YIDJW2eBXLIAX8EZK8X&_nc_ht=scontent.ftpe8-2.fna&oh=7d421dc22b01f42f088e13be31ef11c5&oe=5ED651F1)
+
+(4)
+![4](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/96084192_4255961677750941_7016745147295596544_o.png?_nc_cat=109&_nc_sid=110474&_nc_ohc=OdHZNHuJDKcAX_i5Sxj&_nc_ht=scontent.ftpe8-1.fna&oh=19004a18df2494e99cc8a8cca67b529a&oe=5ED5B689)
 
 -----------------------------------------------------------------------
 # Default Route Config & Individual Host Route
