@@ -124,6 +124,13 @@ There are an important consideration is that host config, it then has entry poin
  
  (4)
  ![4](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/95743673_4255937381086704_8457140052953137152_o.png?_nc_cat=107&_nc_sid=110474&_nc_ohc=3JKbwX_hix4AX9Jwxnf&_nc_ht=scontent.ftpe8-3.fna&oh=534e220651ec455cf9867d20b580ea78&oe=5ED69AFA)
+ 
+ (5)
+ ![5](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/95384806_4255938054419970_7213246128790175744_o.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=OdEFonzLd9YAX_Ywd6E&_nc_ht=scontent.ftpe8-2.fna&oh=ea1ceeca59db34f4606ad06369164397&oe=5ED4EA2E)
+ 
+ (6)
+ 
+ (7)
 
 -----------------------------------------------------------------------
 # Default Route Config & Individual Host Route
