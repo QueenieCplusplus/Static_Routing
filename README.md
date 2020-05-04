@@ -112,6 +112,18 @@ There are an important consideration is that host config, it then has entry poin
 ![8-2](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/95771754_4252055681474874_2285555782730645504_n.jpg?_nc_cat=106&_nc_sid=110474&_nc_ohc=_8LH2yFFZ3oAX9qDOs3&_nc_ht=scontent.ftpe8-3.fna&oh=27c23e9effc80959570678c375ad7f2e&oe=5ED3101D)
 
  * VLAN - WAN
+ 
+ (1)
+ ![1](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/96174618_4255935744420201_8777232253148200960_o.jpg?_nc_cat=108&_nc_sid=110474&_nc_ohc=XJ8hiHxwrU8AX8e42pM&_nc_ht=scontent.ftpe8-1.fna&oh=1753e8d841ad62bc0761aa204bb2e7e7&oe=5ED4B43E)
+ 
+ (2)
+ ![2](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/96220336_4255936254420150_9109655325924917248_o.png?_nc_cat=111&_nc_sid=110474&_nc_ohc=wVd50fTW4DEAX-7qxCT&_nc_ht=scontent.ftpe8-3.fna&oh=66a0826400ee3a8c8b969c67e57c3d84&oe=5ED51355)
+ 
+ (3)
+ ![3](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/95443899_4255936544420121_6744229833141649408_o.jpg?_nc_cat=105&_nc_sid=110474&_nc_ohc=pVqBH-W-6_AAX-r0xUu&_nc_ht=scontent.ftpe8-1.fna&oh=7405de41314ee05b4f87b2b5c3df786c&oe=5ED6CE0A)
+ 
+ (4)
+ ![4](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/95743673_4255937381086704_8457140052953137152_o.png?_nc_cat=107&_nc_sid=110474&_nc_ohc=3JKbwX_hix4AX9Jwxnf&_nc_ht=scontent.ftpe8-3.fna&oh=534e220651ec455cf9867d20b580ea78&oe=5ED69AFA)
 
 -----------------------------------------------------------------------
 # Default Route Config & Individual Host Route
