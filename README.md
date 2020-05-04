@@ -111,7 +111,7 @@ There are an important consideration is that host config, it then has entry poin
 (10)
 ![8-2](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/95771754_4252055681474874_2285555782730645504_n.jpg?_nc_cat=106&_nc_sid=110474&_nc_ohc=_8LH2yFFZ3oAX9qDOs3&_nc_ht=scontent.ftpe8-3.fna&oh=27c23e9effc80959570678c375ad7f2e&oe=5ED3101D)
 
- * VLAN - WAN
+ * VLAN - LAN
  
  (1)
  ![1](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/96174618_4255935744420201_8777232253148200960_o.jpg?_nc_cat=108&_nc_sid=110474&_nc_ohc=XJ8hiHxwrU8AX8e42pM&_nc_ht=scontent.ftpe8-1.fna&oh=1753e8d841ad62bc0761aa204bb2e7e7&oe=5ED4B43E)
